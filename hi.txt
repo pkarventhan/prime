@@ -1,0 +1,74 @@
+ng new shoeaholics
+npm install bootstrap --save
+
+"styles": [
+"node_modules/bootstrap/dist/css/bootstrap.min.css",
+"src/styles.css"
+],
+
+"scripts": [
+"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+]
+
+ng s 
+ng g c ****
+ng g s ****
+ng g g ****
+
+npm install -g json-server
+json-server --watch db.json
+
+npm install node-modules --save
+
+https://www.npmjs.com/package/json-server
+
+https://github.com/yshashi/add-to-cart
+
+---ReactJs
+
+https://github.com/arunprabu/react-course-batch2-apr2023
+
+npx create-react-app prime-video
+
+npm install bootstrap --save
+npm i react-router-dom
+npm i react-helmet-async
+npm i prop-types
+npm i eslint -D
+npx eslint --init
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+npm i --save @fortawesome/free-brands-svg-icons
+
+eg:(
+Global
+import { library } from "@fortawesome/fontawesome-svg-core";
+import { faTwitter, faFacebook, faInstagram } from "@fortawesome/free-brands-svg-icons";
+library.add(faTwitter, faFacebook, faInstagram);
+
+Main
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+)
+
+
+How would you like to use ESLint? · style       
+√ What type of modules does your project use? · esm
+√ Which framework does your project use? · react
+√ Does your project use TypeScript? · No / Yes
+√ Where does your code run? · browser
+√ How would you like to define a style for your project? · guide
+√ Which style guide do you want to follow? · standard    
+√ What format do you want your config file to be in? · JSON
+Checking peerDependencies of eslint-config-standard@latest 
+The config that you've selected requires the following dependencies:
+
+eslint-plugin-react@latest eslint-config-standard@latest eslint@^8.0.1 eslint-plugin-import@^2.25.2 eslint-plugin-n@^15.0.0 || ^16.0.0  eslint-plugin-promise@^6.0.0
+√ Would you like to install them now? · No / Yes
+√ Which package manager do you want to use? · npm
+
+npm run lint
+
+shoeaholics
