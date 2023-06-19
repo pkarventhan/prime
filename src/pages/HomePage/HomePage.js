@@ -1,6 +1,3 @@
-// node_modules imports
-import { Helmet } from 'react-helmet-async';
-
 // custom imports
 import LatestVideo from './LatestVideo/LatestVideo';
 import LifeCycleDemo from './LifeCycleDemo/LifeCycleDemo';
@@ -8,13 +5,12 @@ import MyProfile from './MyProfile/MyProfile';
 import RecommendedVideoList from './RecommendedVideoList/RecommendedVideoList';
 import Subscription from './Subscription/Subscription';
 import TrendingVideoList from './TrendingVideoList/TrendingVideoList';
+import Title from './../../components/Title/Title';
 
 const HomePage = () => {
   return (
     <div>
-      <Helmet>
-        <title>Prime Video</title>
-      </Helmet>
+      <Title title="Prime Video" />
 
       <div className="row px-5 pb-5">
         <h1>Welcome to Home Page</h1>

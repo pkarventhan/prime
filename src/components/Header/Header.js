@@ -11,9 +11,9 @@ const Header = () => {
   return (
     <header className="navbar navbar-expand-md fixed-top bg-black navbar-dark">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/">
+        <div className="navbar-brand" href="/">
           Prime Video
-        </a>
+        </div>
         <button
           className="navbar-toggler"
           type="button"
@@ -27,7 +27,7 @@ const Header = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarCollapse">
           <MenuList />
-          <form className="d-flex" role="search">
+          <form className="d-flex" role="search" name="search">
             <input
               className="form-control me-2"
               type="search"

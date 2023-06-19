@@ -29,7 +29,13 @@ const MenuList = () => {
       url: '/contact-us'
     }
   ];
-  return <MenuItem menuItems={menuItems} />;
+  return (
+    <ul className="navbar-nav me-auto mb-2 mb-md-0">
+      {menuItems.map((list) => (
+        <MenuItem key={list.id} url={list.url} name={list.name} />
+      ))}
+    </ul>
+  );
 };
 
 export default MenuList;

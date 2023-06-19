@@ -1,6 +1,6 @@
 // node_modules imports
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import Title from './../../components/Title/Title';
 
 // custom imports
 import Hello from './Hello/Hello';
@@ -13,9 +13,7 @@ const StyledBye = applyStyles(Bye);
 const HocDemoPage = () => {
   return (
     <div>
-      <Helmet>
-        <title>Hoc Demo</title>
-      </Helmet>
+      <Title title="Hoc Demo" />
       <h2>Hoc Demo</h2>
 
       <StyledHello name="Karventhan" />
