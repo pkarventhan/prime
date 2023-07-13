@@ -1,0 +1,217 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Crew Neck Essential Cotton T-Shirt (TOMMY HILFIGER)",
+      "description": "Basics are in trend and this tee makes a perfect pick to not only add comfort to your style but also create a statement look within minutes. About of 30 years, Tommy Hilfiger has brought classic, cool, American apparel to the world. Hilfiger introduced his signature collection in 1985, and the relaxed, youthful attitude of those designs has remained a hallmark through his collections. The Tommy Hilfiger Group is one of few globally recognized designer brands offering a wide range of preppy, American inspired apparel and accessories.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Crew Neck Essential Cotton T-Shirt (TOMMY HILFIGER)",
+      "maxRetailPrice": 999,
+      "category": "Men",
+      "discountApplicable": 5,
+      "added": "4/9/2021",
+      "quantity": 300,
+      "bestSellerRanking": 2,
+      "reviews": [
+        {
+          "id": 101,
+          "name": "Kevin",
+          "email": "kevin@l.com",
+          "phone": "9876543210",
+          "comment": "Amazing Product!",
+          "rating": 4
+        },
+        {
+          "id": 102,
+          "name": "Raj",
+          "email": "raj@l.com",
+          "phone": "9876540210",
+          "comment": "Amazing Product!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Transitional Cotton Solid Linear T-Shirt (TOMMY HILFIGER)",
+      "description": "Freshen up your rotation of casuals with this soft and breathable t-shirt made with transitional cotton that allows day long comfort wherever you go. About of 30 years, Tommy Hilfiger has brought classic, cool, American apparel to the world. Hilfiger introduced his signature collection in 1985, and the relaxed, youthful attitude of those designs has remained a hallmark through his collections. The Tommy Hilfiger Group is one of few globally recognized designer brands offering a wide range of preppy, American inspired apparel and accessories.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Transitional Cotton Solid Linear T-Shirt (TOMMY HILFIGER)",
+      "maxRetailPrice": 1099,
+      "category": "Women",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 230,
+      "bestSellerRanking": 3,
+      "reviews": []
+    },
+    {
+      "id": 3,
+      "name": "Pure Cotton Pique Polo Shirt (U.S. POLO ASSN. KIDS)",
+      "description": "This pure cotton polo shirt will make a refreshing addition to your little man's top-wear roster while the pure cotton fabric keeps him at ease for hours.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Pure Cotton Pique Polo Shirt (U.S. POLO ASSN. KIDS)",
+      "maxRetailPrice": 499,
+      "category": "Kids",
+      "discountApplicable": 14,
+      "added": "4/8/2021",
+      "quantity": 210,
+      "bestSellerRanking": 4,
+      "reviews": [
+        {
+          "id": 101,
+          "name": "Priya",
+          "email": "Priya@l.com",
+          "phone": "9876543211",
+          "comment": "Nice Product!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tipped Zipper Polo Shirt (U.S. POLO ASSN.)",
+      "description": "A polo shirt in a versatile hue is a wardrobe essential and this cotton one with a zipper placket makes for a smart choice. U.S. POLO ASSN. captures the authenticity of polo and stays true to a classic. Officially sanctioned by the United States Polo Association (the governing body of polo in the USA since 1890), the brand carries clothing for men, women and children, as well as accessories, luggage, watches, shoes, home furnishings and more.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Tipped Zipper Polo Shirt (U.S. POLO ASSN.)",
+      "maxRetailPrice": 1099,
+      "category": "Men",
+      "discountApplicable": 10,
+      "added": "4/8/2021",
+      "quantity": 310,
+      "bestSellerRanking": 3,
+      "reviews": []
+    },
+    {
+      "id": 5,
+      "name": "Metallic Brand Print Cotton T-Shirt (U.S. POLO ASSN.)",
+      "description": "This pure cotton t-shirt is comfortable for a day full of activities and is a show-stopper in terms of style. U.S. POLO ASSN. Officially sanctioned by the United States Polo Association (the governing body of polo in the USA since 1890), the brand carries clothing for men, women and children, as well as accessories, luggage, watches, shoes, home furnishings and more",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Metallic Brand Print Cotton T-Shirt (U.S. POLO ASSN.)",
+      "maxRetailPrice": 998,
+      "category": "Women",
+      "discountApplicable": 10,
+      "added": "4/8/2021",
+      "quantity": 430,
+      "bestSellerRanking": 3,
+      "reviews": []
+    },
+    {
+      "id": 6,
+      "name": "Boys Navy Round Neck Hulk Print T-Shirt (DONUTS)",
+      "description": "Spruce up your little champ's casual roster with this printed t-shirt. The breathable cotton jersey keeps them at ease for hours while a round neck and short sleeves complete the design. Team it with ripped denim shorts and their favourite pair of kicks.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Boys Navy Round Neck Hulk Print T-Shirt (DONUTS)",
+      "maxRetailPrice": 999,
+      "category": "Kids",
+      "discountApplicable": 10,
+      "added": "4/8/2021",
+      "quantity": 320,
+      "bestSellerRanking": 4,
+      "reviews": [
+        {
+          "id": 101,
+          "name": "Sam",
+          "email": "sam@l.com",
+          "phone": "9876543201",
+          "comment": "Nice Product!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Striped Pique Polo Shirt (ARROW)",
+      "description": "Play it cool in this classic, pure cotton pique polo with tipped detailing on the sleeve hems and stripe at the chest. ARROW is known for its classic American styling. The brand's heritage is in dress shirts, and its offering has expanded to include sportswear. ARROW is licensed in approximately 120 territories and appears on a broad assortment of men's, women's and children's apparel and apparel-related products. There are almost 400 free-standing ARROW stores globally.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Striped Pique Polo Shirt (ARROW)",
+      "maxRetailPrice": 899,
+      "category": "Men",
+      "discountApplicable": 5,
+      "added": "4/7/2021",
+      "quantity": 130,
+      "bestSellerRanking": 3,
+      "reviews": []
+    },
+    {
+      "id": 8,
+      "name": "Women Pink Sleeveless All-Over Print T-Shirt (FLYING MACHINE)",
+      "description": "This tee makes for a smart addition to any woman's casual wear. This breathable and highly absorbent t-shirt keeps you comfortable on a hot summer day. It's cut in an easy, relaxed fit and features a round neck. Wear yours with anything from shorts to jeans for a day out.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Women Pink Sleeveless All-Over Print T-Shirt (FLYING MACHINE)",
+      "maxRetailPrice": 899,
+      "category": "Women",
+      "discountApplicable": 14,
+      "added": "4/7/2021",
+      "quantity": 300,
+      "bestSellerRanking": 4,
+      "reviews": [
+        {
+          "id": 101,
+          "name": "Ria",
+          "email": "Ria@l.com",
+          "phone": "9876543201",
+          "comment": "Nice Product!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Boys Round Neck Printed T-Shirt (CHEROKEE)",
+      "description": "Revamp your little boy's wardrobe with this versatile white hued t-shirt. Expertly made from soft cotton, it features a contrast ribbed round neck, short sleeves and a printed front. Let him wear it with jeans or sweat pants for a versatile look he can sport at the playground.",
+      "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
+      "imgAltText": "Boys Round Neck Printed T-Shirt (CHEROKEE)",
+      "maxRetailPrice": 599,
+      "category": "Kids",
+      "discountApplicable": 14,
+      "added": "4/7/2021",
+      "quantity": 130,
+      "bestSellerRanking": 3,
+      "reviews": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 100,
+      "name": "All"
+    },
+    {
+      "id": 101,
+      "name": "Men"
+    },
+    {
+      "id": 102,
+      "name": "Women"
+    },
+    {
+      "id": 103,
+      "name": "Kids"
+    }
+  ],
+  "contactData": {
+    "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+    "phone": [
+      "(91) 987 654 3210",
+      "(91) 987 654 3211"
+    ],
+    "email": "contact@sparkclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Awesome website",
+      "id": 1
+    }
+  ]
+}
