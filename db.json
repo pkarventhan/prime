@@ -17,7 +17,7 @@
         {
           "id": 101,
           "name": "Kevin",
-          "email": "kevin@l.com",
+          "email": "kevin@abc.com",
           "phone": "9876543210",
           "comment": "Amazing Product!",
           "rating": 4
@@ -25,7 +25,7 @@
         {
           "id": 102,
           "name": "Raj",
-          "email": "raj@l.com",
+          "email": "raj@abc.com",
           "phone": "9876540210",
           "comment": "Amazing Product!",
           "rating": 4
@@ -34,8 +34,8 @@
     },
     {
       "id": 2,
-      "name": "Transitional Cotton Solid Linear T-Shirt (TOMMY HILFIGER)",
-      "description": "Freshen up your rotation of casuals with this soft and breathable t-shirt made with transitional cotton that allows day long comfort wherever you go. About of 30 years, Tommy Hilfiger has brought classic, cool, American apparel to the world. Hilfiger introduced his signature collection in 1985, and the relaxed, youthful attitude of those designs has remained a hallmark through his collections. The Tommy Hilfiger Group is one of few globally recognized designer brands offering a wide range of preppy, American inspired apparel and accessories.",
+      "name": "Transitional Cotton Solid Linear Crop Shirt(TOMMY HILFIGER)",
+      "description": "Freshen up your rotation of casuals with this soft and breathable shirt made with transitional cotton that allows day long comfort wherever you go. About of 30 years, Tommy Hilfiger has brought classic, cool, American apparel to the world. Hilfiger introduced his signature collection in 1985, and the relaxed, youthful attitude of those designs has remained a hallmark through his collections. The Tommy Hilfiger Group is one of few globally recognized designer brands offering a wide range of preppy, American inspired apparel and accessories.",
       "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
       "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
       "imgAltText": "Transitional Cotton Solid Linear T-Shirt (TOMMY HILFIGER)",
@@ -64,7 +64,7 @@
         {
           "id": 101,
           "name": "Priya",
-          "email": "Priya@l.com",
+          "email": "Priya@abc.com",
           "phone": "9876543211",
           "comment": "Nice Product!",
           "rating": 4
@@ -88,8 +88,8 @@
     },
     {
       "id": 5,
-      "name": "Metallic Brand Print Cotton T-Shirt (U.S. POLO ASSN.)",
-      "description": "This pure cotton t-shirt is comfortable for a day full of activities and is a show-stopper in terms of style. U.S. POLO ASSN. Officially sanctioned by the United States Polo Association (the governing body of polo in the USA since 1890), the brand carries clothing for men, women and children, as well as accessories, luggage, watches, shoes, home furnishings and more",
+      "name": "Metallic Brand Cotton Shirt (U.S. POLO ASSN. WOMEN)",
+      "description": "This pure cotton shirt is comfortable for a day full of activities and is a show-stopper in terms of style. U.S. POLO ASSN. Officially sanctioned by the United States Polo Association (the governing body of polo in the USA since 1890), the brand carries clothing for men, women and children, as well as accessories, luggage, watches, shoes, home furnishings and more",
       "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
       "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
       "imgAltText": "Metallic Brand Print Cotton T-Shirt (U.S. POLO ASSN.)",
@@ -118,7 +118,7 @@
         {
           "id": 101,
           "name": "Sam",
-          "email": "sam@l.com",
+          "email": "sam@abc.com",
           "phone": "9876543201",
           "comment": "Nice Product!",
           "rating": 5
@@ -127,7 +127,7 @@
     },
     {
       "id": 7,
-      "name": "Striped Pique Polo Shirt (ARROW)",
+      "name": "Striped Pique Polo Cotton T-Shirt (ARROW)",
       "description": "Play it cool in this classic, pure cotton pique polo with tipped detailing on the sleeve hems and stripe at the chest. ARROW is known for its classic American styling. The brand's heritage is in dress shirts, and its offering has expanded to include sportswear. ARROW is licensed in approximately 120 territories and appears on a broad assortment of men's, women's and children's apparel and apparel-related products. There are almost 400 free-standing ARROW stores globally.",
       "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
       "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
@@ -142,8 +142,8 @@
     },
     {
       "id": 8,
-      "name": "Women Pink Sleeveless All-Over Print T-Shirt (FLYING MACHINE)",
-      "description": "This tee makes for a smart addition to any woman's casual wear. This breathable and highly absorbent t-shirt keeps you comfortable on a hot summer day. It's cut in an easy, relaxed fit and features a round neck. Wear yours with anything from shorts to jeans for a day out.",
+      "name": "Green Spread Collar Solid Polyester Shirt (FLYING MACHINE WOMEN)",
+      "description": "This polyester shirt by Flying Machine is perfect for a cool autumn day at work. It upgrades your style game yet keeps you comfortable. This solid shirt with a beige trousers and pumps makes for an impeccable outfit.",
       "imageUrl": "https://dummyimage.com/300x400/09f/fff.png",
       "thumbnailUrl": "https://dummyimage.com/300x400/09f/fff.png",
       "imgAltText": "Women Pink Sleeveless All-Over Print T-Shirt (FLYING MACHINE)",
@@ -157,7 +157,7 @@
         {
           "id": 101,
           "name": "Ria",
-          "email": "Ria@l.com",
+          "email": "Ria@abc.com",
           "phone": "9876543201",
           "comment": "Nice Product!",
           "rating": 5
@@ -209,7 +209,7 @@
   "getInTouchData": [
     {
       "name": "Arun",
-      "email": "arun@gmail.com",
+      "email": "arun@gmaiabc.com",
       "message": "Awesome website",
       "id": 1
     }
